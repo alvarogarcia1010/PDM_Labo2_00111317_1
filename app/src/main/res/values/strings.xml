@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Fake</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="click">Click</string>
+    <string name="label_username">Username</string>
+</resources>
